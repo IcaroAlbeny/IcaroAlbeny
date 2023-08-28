@@ -2,6 +2,7 @@
 ##
 
 - 🔭 Hoje trabalho atualmente com atendimento Help Desck
+- 👀 Estou interessado em Desemvolvimento web
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: Ele/dele
 
