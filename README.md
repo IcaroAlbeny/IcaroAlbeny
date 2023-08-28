@@ -5,10 +5,9 @@
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: Ele/dele
 
-<div>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcaroAlbeny&theme=dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroAlbeny&hide_progress=true)
-</div>
+
 
 
 
