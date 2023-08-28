@@ -1,5 +1,5 @@
 ### Olá, Tudo bem? Meu nome e Icaro Albeny e sou estudante de Engenharia de Software.👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroalbeny&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=THEME_NAME=anuraghazra&theme=dark&show_icons=true)
 <!--
 **IcaroAlbeny/IcaroAlbeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
