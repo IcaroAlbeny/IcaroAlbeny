@@ -1,5 +1,5 @@
 ### Olá, Tudo bem? Meu nome e Icaro Albeny e sou estudante de Engenharia de Software.👋
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://www.instagram.com/icaroalbeny/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <!--
 **IcaroAlbeny/IcaroAlbeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
