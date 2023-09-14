@@ -1,4 +1,15 @@
 ### Olá, Tudo bem? Meu nome e Icaro Albeny e sou estudante de Engenharia de Software.👋
+
+📚 Atualmente, sou um desenvolvedor fullstack junior e tenho aprofundado meu conhecimento HTML, CSS, Java, JavaScript e explorado conceitos fascinantes como desenvolvimento web e segurança da informação.
+
+💡 Além de minha paixão pela tecnologia, sou uma pessoa determinada, curiosa e comprometida com a resolução de problemas. Acredito firmemente que a aprendizagem contínua é essencial nessa área em constante evolução, e estou sempre disposto a enfrentar novos desafios.
+
+🤝 Estou aberto a oportunidades de estágio onde posso fazer a diferença e contribuir para o sucesso de uma equipe. Se você conhece alguma oportunidade que possa se alinhar com meu perfil, fico muito grato por qualquer ajuda ou orientação que possa oferecer.
+
+📧 Você pode entrar em contato comigo através do LinkedIn ou por e-mail em icaroalbeny41@gmail.com . Estou ansioso para conectar com profissionais da área e explorar oportunidades empolgantes no campo da programação.
+
+🚀 Vamos construir o futuro juntos! 👨‍💻💡
+
 ##
 
 - 🔭 Hoje trabalho atualmente com atendimento Help Desck
